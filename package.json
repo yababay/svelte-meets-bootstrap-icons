@@ -1,6 +1,6 @@
 {
+  "version": "0.0.8",
   "name": "@yababay67/svelte-meets-bootstrap-icons",
-  "version": "0.0.3",
   "description": "Using bootstrap icons in svelte modules.",
   "main": "index.js",
   "scripts": {
